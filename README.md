@@ -27,3 +27,6 @@ Model no. | Model Architecture | Epoch vs train & Val accuracy plot | Train accu
 ## Figure 4.0
 ![alt text](https://github.com/krishnapal2545/NNFL_FlowerClassification/blob/master/Accuracy_vs_Epoch_Plot/FourthModel.png?raw=true)
 
+## Conclusion
+
+Our custom CNN models can achieve 98.67% accuracy on test data. By adding batch normalization layer and dropout layer, we solved the problem of overfitting and found 97.83% and 98.67% test accuracy respectively. Also, we can get better results by making our initial network deeper which means depth of network matters a lot. VGG achieves high train and test accuracy with a batch size of 32. The changing of batch size influences the results a lot. With too small or too large batch size, training process stucks at a local min point and the accuracy is low. It also shows the result of overfitting as train accuracy is much higher than validation and test accuracy.
