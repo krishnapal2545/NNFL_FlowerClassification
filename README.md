@@ -2,10 +2,10 @@
 
 The dataset contains 2400 images of flowers. The data collection is based on the data flickr, google images, yandex images. You can use this dataset to recognize flowers from the photo. The pictures are divided into two classes: rose and  sunflower. For each class there are about 1200 photos.
  
-Total data: 2400 images
-Train data: 50% of total data
-Validation data: 25% of total data
-Test data:  25% of total data
+Total data: 2400 images <br/>
+Train data: 50% of total data <br/>
+Validation data: 25% of total data <br/>
+Test data:  25% of total data <br/>
 
 Model no. | Model Architecture | Epoch vs train & Val accuracy plot | Train accuracy | Validation accuracy | Test accuracy
 --- | --- | --- | --- | --- | ---
