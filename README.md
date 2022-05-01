@@ -22,15 +22,9 @@ Model no. | Model Architecture | Epoch vs train & Val accuracy plot | Train accu
 4 | VGG16 | Figure 4.0 | 100% | 94.89% | 99.00% 
  
  
-## Figure 1.0
-![alt text](https://github.com/krishnapal2545/NNFL_FlowerClassification/blob/master/Accuracy_vs_Epoch_Plot/FirstModel.png?raw=true)
-
-## Figure 2.0
-![alt text](https://github.com/krishnapal2545/NNFL_FlowerClassification/blob/master/Accuracy_vs_Epoch_Plot/SecondModel.png?raw=true)
-
-## Figure 3.0
-![alt text](https://github.com/krishnapal2545/NNFL_FlowerClassification/blob/master/Accuracy_vs_Epoch_Plot/ThirdModel.png?raw=true)
-
-## Figure 4.0
-![alt text](https://github.com/krishnapal2545/NNFL_FlowerClassification/blob/master/Accuracy_vs_Epoch_Plot/FourthModel.png?raw=true)
+## List of Figures
+Figure 1.0 | ![alt text](https://github.com/krishnapal2545/NNFL_FlowerClassification/blob/master/Accuracy_vs_Epoch_Plot/FirstModel.png?raw=true)
+Figure 2.0 | ![alt text](https://github.com/krishnapal2545/NNFL_FlowerClassification/blob/master/Accuracy_vs_Epoch_Plot/SecondModel.png?raw=true)
+Figure 3.0 | ![alt text](https://github.com/krishnapal2545/NNFL_FlowerClassification/blob/master/Accuracy_vs_Epoch_Plot/ThirdModel.png?raw=true)
+Figure 4.0 | ![alt text](https://github.com/krishnapal2545/NNFL_FlowerClassification/blob/master/Accuracy_vs_Epoch_Plot/FourthModel.png?raw=true)
 
