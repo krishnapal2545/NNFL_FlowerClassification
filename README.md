@@ -7,13 +7,6 @@ Train data: 50% of total data
 Validation data: 25% of total data
 Test data:  25% of total data
 
-Model no.
-Model Architecture
-Epoch vs train & Val accuracy plot
-Train accuracy
-Validation accuracy
-Test accuracy
-
 Model no. | Model Architecture | Epoch vs train & Val accuracy plot | Train accuracy | Validation accuracy | Test accuracy
 --- | --- | --- | --- | --- | ---
 1 | CNN2D | Figure 1.0 | 99.48% | 90.67% | 98.67%
@@ -23,6 +16,7 @@ Model no. | Model Architecture | Epoch vs train & Val accuracy plot | Train accu
  
  
 ## List of Figures
+--- | --- 
 Figure 1.0 | ![alt text](https://github.com/krishnapal2545/NNFL_FlowerClassification/blob/master/Accuracy_vs_Epoch_Plot/FirstModel.png?raw=true)
 Figure 2.0 | ![alt text](https://github.com/krishnapal2545/NNFL_FlowerClassification/blob/master/Accuracy_vs_Epoch_Plot/SecondModel.png?raw=true)
 Figure 3.0 | ![alt text](https://github.com/krishnapal2545/NNFL_FlowerClassification/blob/master/Accuracy_vs_Epoch_Plot/ThirdModel.png?raw=true)
