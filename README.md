@@ -23,7 +23,7 @@ Model no. | Model Architecture | Epoch vs train & Val accuracy plot | Train accu
  
  
 ## Figure 1.0
-![alt text](https://github.com/krishnapal2545/NNFL_FlowerClassification/Accuracy_vs_Epoch_Plot/FirstModel.png?raw=true)
+![alt text](https://github.com/krishnapal2545/NNFL_FlowerClassification/blob/master/Accuracy_vs_Epoch_Plot/FirstModel.png?raw=true)
 
 ## Figure 2.0
 ![alt text](https://github.com/krishnapal2545/NNFL_FlowerClassification/Accuracy_vs_Epoch_Plot/SecondModel.png?raw=true)
